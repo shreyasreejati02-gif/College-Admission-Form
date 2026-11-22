@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+admission_data.xlsx
+.venv/
+venv/
